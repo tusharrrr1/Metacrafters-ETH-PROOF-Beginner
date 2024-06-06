@@ -18,8 +18,8 @@ pragma solidity >=0.8.18;
 contract MyToken {
 
     // public variables here
-     string public tokenName = "MXP";
-    string public abbrv = "MX";
+     string public tokenName = "XRP";
+    string public abbrv = "XR";
     uint public totalSupply = 0;
     
 
